@@ -24,4 +24,4 @@
 - 转化 ul ol 为树形结构
 - 使用时间戳作为标签标识
 - `npm run build`
-- `dist/test.html` 打开查看结果
+- dist/test.html 打开查看结果
