@@ -18,4 +18,10 @@
 - apply 编写逻辑
 - 移步至第三步分支
 
-## 
+## 第三步
+- 实现 compileHTML md to html 的逻辑
+- 转化 # 为树形结构
+- 转化 ul ol 为树形结构
+- 使用时间戳作为标签标识
+- `npm run build`
+- `dist/test.html` 打开查看结果

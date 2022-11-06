@@ -1,5 +1,5 @@
 const { resolve } = require('path')
-const MdToHtmlPlugin = require('./plugins/md-to-html-plugin')
+const MdToHtmlPlugin = require('./plugin/md-to-html-plugin')
 
 module.exports = {
   mode: 'development',
